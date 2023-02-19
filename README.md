@@ -1,2 +1,2 @@
 # OpenCV_BeginnerProjects
-A collection of basic face and eye detection programs (in Python)
+A collection of programs (in Python) using OpenCV library
