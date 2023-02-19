@@ -1,7 +1,7 @@
 import cv2
 
 
-# Load the face cascade classifier
+# Load the face cascade classifier (Use absolute path if it gives an Assertion error)
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade_lefteye_2splits.xml')
 
