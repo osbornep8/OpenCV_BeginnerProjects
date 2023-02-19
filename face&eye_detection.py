@@ -2,6 +2,7 @@ import cv2
 
 
 
+# Mention absolute path if you get an assertion error (not mentioned here) for the haarcascade classifiers
 
 # Load the face cascade classifier
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
